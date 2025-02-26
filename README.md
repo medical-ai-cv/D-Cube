@@ -43,3 +43,14 @@ Inputs: .PNG images
   ```
   ![example](./assets/ex_samples.jpg)
 
+
+
+## 📚 Citation
+```bibtex
+@article{dcube2024,
+  title={D-Cube: Exploiting Hyper-Features of Diffusion Model for Robust Medical Classification},
+  author={Jang, Minhee and Son, Junheon and Viriyasaranon, Thanaporn and Kim, Junho and Choi, Jang-Hwan},
+  journal={arXiv preprint arXiv:2411.11087},
+  year={2024}
+}
+

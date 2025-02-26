@@ -1,8 +1,9 @@
 # D-Cube : Exploiting Hyper-Features of Diffusion Model for Robust Medical Classification [[Paper]](https://arxiv.org/abs/2411.11087)
 ## ICDM 2024 : Official PyTorch Implementation
 
-> #### Authors: [Minhee Jang<sup>1</sup>](https://github.com/minhee-Jang), [Juheon Son<sup>1</sup>](https://github.com/juheonewha), [Thanaporn Viriyasaranon<sup>1</sup>], [Junho Kim<sup>2&dagger;</sup>](https://github.com/taki0112), [Jang-Hwan Choi<sup>1&dagger;</sup>]
-> <sup>1</sup> <sub>Ewha Womans University</sub> <sup>2</sup>NAVER AI Lab <sub></sub>
+> #### Authors: [Minhee Jang<sup>1&#42;</sup>](https://github.com/minhee-Jang), [Juheon Son<sup>1&#42;</sup>](https://github.com/juheonewha), [Thanaporn Viriyasaranon<sup>1</sup>], [Junho Kim<sup>2&dagger;</sup>](https://github.com/taki0112), [Jang-Hwan Choi<sup>1&dagger;</sup>]
+> <sup>1</sup> <sub>Ewha Womans University</sub> <sup>2</sup> <sub>NAVER AI Lab</sub>
+> <sup>&#42;</sup><sub>Equal Contribution
 > <sup>&dagger;</sup> <sub> Corresponding author </sub>
 
 #### Abstract

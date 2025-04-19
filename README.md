@@ -32,7 +32,7 @@ Inputs: .PNG images
   ```
   > python main_step1.py --dataset_path dataset dir --num_classes number of classes
   ```
-* ### Step 2 : Training a classificer model
+* ### Step 2 : Training a classifier model
   ```
   > python main_step2.py --dataset_path dataset dir --pretrained pretrained diffusion model path --num_classes number of classes
   ```

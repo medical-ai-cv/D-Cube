@@ -2,7 +2,7 @@
 ## ICDM 2024 : Official PyTorch Implementation
 
 
-> #### Authors &emsp;&emsp; [Minhee Jang](https://github.com/minhee-Jang)<sup>1&#42;</sup>, [Juheon Son](https://github.com/juheonewha)<sup>1&#42;</sup>, Thanaporn Viriyasaranon<sup>1</sup>, [Junho Kim](https://github.com/taki0112)<sup>2&dagger;</sup>, Jang-Hwan Choi<sup>1&dagger;</sup> <sup>1</sup>Ewha Womans University, <sup>2</sup>NAVER AI Lab</sub> <br> <sub> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <sup>&#42;</sup>Equal Contribution, <sup>&dagger;</sup>Corresponding author</sub>
+> #### Authors &emsp;&emsp; [Minhee Jang](https://github.com/minhee-Jang)<sup>1&#42;</sup>, [Juheon Son](https://github.com/juheonewha)<sup>1&#42;</sup>, Thanaporn Viriyasaranon<sup>1</sup>, [Junho Kim](https://github.com/taki0112)<sup>2&dagger;</sup>, Jang-Hwan Choi<sup>1&dagger;</sup> <br> <sub> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <sup>1</sup>Ewha Womans University, <sup>2</sup>NAVER AI Lab</sub> <br> <sub> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <sup>&#42;</sup>Equal Contribution, <sup>&dagger;</sup>Corresponding author</sub>
 
 
 #### Abstract
